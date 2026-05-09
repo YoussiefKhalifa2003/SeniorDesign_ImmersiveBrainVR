@@ -1,0 +1,27 @@
+Category,Item,Status,Sprint/Phase,Notes,Date/Due
+Phase,Conceptual Design,Completed,Fall 2025,Educational justification system architecture,Fall 2025
+Phase,System Design,Completed,Fall 2025,Technical architecture blueprint,Fall 2025
+Phase,Prototype,Completed,Fall 2025,Initial implementation,Fall 2025
+Phase,Integration,Completed,Fall 2025,Brain dissection core workflow,Fall 2025
+Phase,Fall Deliverables,Completed,Fall 2025,Report and demos,Fall 2025
+Phase,Content Expansion and Polish,In Progress,Spring 2026 Sprints 1-2,Login menu options timer,Feb-26
+Deliverable,Spring Deliverable 1,Completed,Spring 2026,Report reflections BOM testing,Feb-26
+Feature,Movement gate (locomotion disabled until Play),Completed,Sprint 1-2,MovementGate.cs disables on Awake enabled after Play,
+Feature,Put region back into brain,Completed,Sprint 1-2,BrainRegion stores transform; BrainManager.PutBackRegion(),
+Feature,Login and session data,Completed,Sprint 1-2,SessionData LoginManager SessionTimer HUD Name and MM:SS,
+Feature,VR keyboard on input focus,Completed,Sprint 1-2,VRKeyboardManager XRI Spatial Keyboard,
+Feature,Main menu and panel flow,Completed,Sprint 1-2,MenuManager fade panel switching,
+Feature,Door animation on Play,Completed,Sprint 1-2,DoorController LeftDoor RightDoor open,
+Feature,Options brightness and contrast,Completed,Sprint 1-2,OptionsController post-processing sliders,
+Feature,Brain dissection core (select isolate cut inspect),Completed,Fall/Spring,BrainManager ToolFollower LabToolManager cut zones,
+Testing,Movement on session start,Pass,Sprint 1-2,MovementGate disables locomotion until Play,
+Testing,Put region back into brain,Pass,Sprint 1-2,BrainRegion original transform restored,
+Testing,Login and session data,Pass,Sprint 1-2,SessionData LoginManager SessionTimer wired,
+Testing,VR keyboard on input focus,Pass,Sprint 1-2,VRKeyboardManager shows/hides on focus,
+Testing,Door animation on Play,Pass,Sprint 1-2,DoorController triggers open on Play,
+Testing,Options sliders,Pass,Sprint 1-2,OptionsController drives post-processing,
+Action,Unified lab environment (tutorial and quiz in same lab),To do,TBD,Per stakeholder meeting 09 Feb 2026,To be decided
+Action,Step-by-step quiz interaction flow,To do,TBD,Approved quiz structure,To be decided
+Action,Fix Unity/XR issues and test on Gaming Garage machines,To do,TBD,Stable builds,To be decided
+Action,Enable WebGL deployment,To do,TBD,Faster faculty review,To be decided
+Action,Module 1 content (prioritized regions from Dr. Niki),To do,TBD,Dr. Niki to provide list,To be decided

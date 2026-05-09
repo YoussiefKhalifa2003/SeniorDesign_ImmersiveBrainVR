@@ -216,8 +216,8 @@ You can test without building to the Quest:
 
 ## Contact / Team
 
-Youssief Khalifa — [GitHub](https://github.com/YoussiefKhalifa2003)
-Yahya Elsawi - [GitHub](https://github.com/Yahyaelsawii)
+Lead Developer - Youssief Khalifa — [GitHub](https://github.com/YoussiefKhalifa2003)
+Supporting Developer- Yahya Elsawi - [GitHub](https://github.com/Yahyaelsawii)
 ---
 
 *Last updated: May 2026*
